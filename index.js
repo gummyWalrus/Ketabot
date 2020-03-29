@@ -3,7 +3,7 @@ const client = new Discord.Client({ partials: ['MESSAGE', 'CHANNEL', 'REACTION',
 var prefix = "!";
 const guildobj = new Discord.Guild();
 
-client.login("NjkxMTYwMzQ5OTI3NDA3NjY2.Xnb75Q.G_odaSw-GVReQc8KNUiIcEZH2MQ");
+client.login("HIDDEN");
 
 function getRandomInt(min, max) {
     min = Math.ceil(min);
